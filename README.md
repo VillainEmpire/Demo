@@ -29,5 +29,17 @@ npm run start
 ```bash
 npm run test
 ```
-# Author
+# Image
+![Screenshot](https://markdown-here.com/img/icon256.png)
 
+# Table
+
+| Name   |    Email                 |
+|--------|--------------------      |
+|Vipin   | yvipin98130y@gmail.com   |
+|Villain | Villainempire700@gmail.com|
+
+# CheckList
+* [x] Task 1
+* [x] Task 2
+* [] Task 3
